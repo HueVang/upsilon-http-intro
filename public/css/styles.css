@@ -1,0 +1,15 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+}
+
+#poke-Display {
+  clear: left;
+}
+
+.active {
+  background-color: goldenrod;
+}
